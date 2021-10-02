@@ -1,0 +1,20 @@
+#the-canvas {
+    display:block;
+    border: 1px solid black;
+    direction: ltr;
+}
+#nav {
+    display: flex;
+    justify-content: center;
+}
+button#prev {
+    margin-right: 20px;
+}
+.btn {
+    background-color: rgb(179, 179, 179);
+}
+
+.btn:hover {
+    color: white;
+    background-color: green;
+}
